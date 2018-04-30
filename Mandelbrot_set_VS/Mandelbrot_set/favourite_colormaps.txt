@@ -1,0 +1,2 @@
+BEST: afmhot,CMRmap,flag,cubehelix
+GOOD: blues_r,bone,BrBG,BrBG_r,BuGn_r,binary_r,cololwarm,Spectral,Spectral_r, terrain,stern,gnuplot,hot, inferno,plasma,prism,reds,seismic

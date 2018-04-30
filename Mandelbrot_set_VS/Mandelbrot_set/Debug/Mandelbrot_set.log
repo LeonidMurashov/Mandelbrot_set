@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\vs_projects\mandelbrot_set\mandelbrot_set\main.cpp(62): warning C4101: theta: неиспользованная локальная переменная
+d:\vs_projects\mandelbrot_set\mandelbrot_set\main.cpp(62): warning C4101: p: неиспользованная локальная переменная
+d:\vs_projects\mandelbrot_set\mandelbrot_set\main.cpp(62): warning C4101: pc: неиспользованная локальная переменная
+LINK : fatal error LNK1168: не удается открыть D:\VS_projects\Mandelbrot_set\Debug\Mandelbrot_set.exe для записи
